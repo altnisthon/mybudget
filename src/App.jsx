@@ -1,8 +1,8 @@
 import { useState, useRef, useEffect } from "react";
 import { createClient } from "@supabase/supabase-js";
 
-const SUPABASE_URL = "https://emyxkmcnborlhdukcvjn.supabase.co";
-const SUPABASE_KEY = "sb_publishable_dVqOIaprjYpDbHZFPD5HwQ_TjeZKBhl";
+const SUPABASE_URL = "https://cukxdfpohnwlymprtlmp.supabase.co";
+const SUPABASE_KEY = "sb_publishable_jb2uwxN2Od231pGfsZL-rQ_A70ibaSE";
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
 const FONT_LINK = "https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap";
